@@ -6,7 +6,7 @@
 https://public.tableau.com/app/profile/sumedha.sahni/viz/hrbysumedha/HRANALYTICSDASHBOARD?publish=yes
 
 <h2>Project Screenshots:</h2>
-![Screenshot 2023-08-14 230147](https://github.com/SumedhaSahni/HR-ANALYTICS/assets/141904366/6889718a-c1a8-408b-a880-34e8176bd066)
+[Screenshot 2023-08-14 230147](https://github.com/SumedhaSahni/HR-ANALYTICS/assets/141904366/6889718a-c1a8-408b-a880-34e8176bd066)
 
 
 <h3>Data:</h3>
