@@ -6,8 +6,10 @@
 https://public.tableau.com/app/profile/sumedha.sahni/viz/hrbysumedha/HRANALYTICSDASHBOARD?publish=yes
 
 <h2>Project Screenshots:</h2>
-[Screenshot 2023-08-14 230147](https://github.com/SumedhaSahni/HR-ANALYTICS/assets/141904366/6889718a-c1a8-408b-a880-34e8176bd066)
+
+![HR ANALYTICS DASHBOARD (1)](https://github.com/SumedhaSahni/HR-ANALYTICS/assets/141904366/465a4dad-e42b-4fd3-a5e6-a08672f8e7cc)
 
 
-<h3>Data:</h3>
-<p>https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit#gid=2089618187</p>
+<h3>different bin size</h3>
+
+![HR ANALYTICS DASHBOARD (4)](https://github.com/SumedhaSahni/HR-ANALYTICS/assets/141904366/7a51bbf9-a9de-4721-bf88-4bb2f61f95a5)
