@@ -13,3 +13,6 @@ https://public.tableau.com/app/profile/sumedha.sahni/viz/hrbysumedha/HRANALYTICS
 <h3>different bin size</h3>
 
 ![HR ANALYTICS DASHBOARD (4)](https://github.com/SumedhaSahni/HR-ANALYTICS/assets/141904366/7a51bbf9-a9de-4721-bf88-4bb2f61f95a5)
+
+<h3>Data:</h3>
+https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit#gid=2089618187
